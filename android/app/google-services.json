@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8759226582",
+    "project_id": "final-health-bank",
+    "storage_bucket": "final-health-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8759226582:android:34eaecbf7e11d859d91977",
+        "android_client_info": {
+          "package_name": "com.example.health_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgXdzIpxK5JhwOuQEWr0T_-OOsh4GXMVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
