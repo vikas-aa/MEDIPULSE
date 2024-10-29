@@ -83,6 +83,13 @@ flutter:
     - lib/assets/health_bank_logo.png
     - lib/assets/image_one.jpg
     - lib/assets/pgi-lck.jpeg
+    - lib/assets/bhu.jpeg
+    - lib/assets/gkp.jpg
+    - lib/assets/raipur.jpg
+    - lib/assets/rishikesh.jpeg
+    - lib/assets/jodhpur.avif
+    - lib/assets/nagpur.jpeg
+    - lib/assets/new delhi.jpeg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

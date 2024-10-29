@@ -12,14 +12,14 @@ class _FirstPageState extends State<FirstPage> {
 
   // Sample data for demonstration
   final List<Map<String, String>> _items = [
-    {'name': 'BHU', 'image': 'lib/assets/pgi-lck.jpeg'},
+    {'name': 'BHU', 'image': 'lib/assets/bhu.jpeg'},
     {'name': 'PGI LUCKNOW', 'image': 'lib/assets/pgi-lck.jpeg'},
-    {'name': 'AIIMS RAIPUR', 'image': 'lib/assets/pgi-lck.jpeg'},
-    {'name': 'AIIMS LUCKNOW', 'image': 'lib/assets/pgi-lck.jpeg'},
-    {'name': 'AIIMS AHAMDABAD', 'image': 'lib/assets/pgi-lck.jpeg'},
-    {'name': 'AIIMS PATNA', 'image': 'lib/assets/pgi-lck.jpeg'},
-    {'name': 'AIMS DELHI', 'image': 'lib/assets/pgi-lck.jpeg'},
-    {'name': 'AIMS MUMBAI', 'image': 'lib/assets/pgi-lck.jpeg'},
+    {'name': 'AIIMS RAIPUR', 'image': 'lib/assets/raipur.jpg'},
+    {'name': 'AIIMS NEW DELHI', 'image': 'lib/assets/new delhi.jpeg'},
+    {'name': 'AIIMS JODHPUR', 'image': 'lib/assets/jodhpur.avif'},
+    {'name': 'AIIMS RISHIKESH', 'image': 'lib/assets/rishikesh.jpeg'},
+    {'name': 'AIMS GORAKHPUR', 'image': 'lib/assets/gkp.jpg'},
+    {'name': 'AIMS NAGPUR', 'image': 'lib/assets/nagpur.jpeg'},
     // Add more items here
   ];
 
